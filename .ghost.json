@@ -1,10 +1,10 @@
 {
   "development": {
     "apiUrl": "http://localhost:2370",
-    "contentApiKey": "15799f380c2333ed67f50d2e47"
+    "contentApiKey": "63f6c1daa331a232f88cf4e524"
   },
   "production": {
-    "apiUrl": "http://localhost:2370",
-    "contentApiKey": "15799f380c2333ed67f50d2e47"
+    "apiUrl": "https://xenodochial-knuth-109da9.netlify.app",
+    "contentApiKey": "63f6c1daa331a232f88cf4e524"
   }
 }
