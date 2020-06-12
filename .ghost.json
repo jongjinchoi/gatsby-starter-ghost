@@ -4,7 +4,7 @@
     "contentApiKey": "15799f380c2333ed67f50d2e47"
   },
   "production": {
-    "apiUrl": "https://xenodochial-knuth-109da9.netlify.app",
+    "apiUrl": "https://gatsby.ghost.io",
     "contentApiKey": "15799f380c2333ed67f50d2e47"
   }
 }
