@@ -2,9 +2,5 @@
   "development": {
     "apiUrl": "http://localhost:2370",
     "contentApiKey": "d6f94c354efd601cce9d1f5d0b"
-  },
-  "production": {
-    "apiUrl": " http://07f99420bd2a.ngrok.io",
-    "contentApiKey": "d6f94c354efd601cce9d1f5d0b"
   }
 }
