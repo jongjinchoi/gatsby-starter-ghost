@@ -2,5 +2,9 @@
   "development": {
     "apiUrl": "http://localhost:2370",
     "contentApiKey": "d6f94c354efd601cce9d1f5d0b"
+  },
+  "production": {
+    "apiUrl": " http://localhost:2370",
+    "contentApiKey": "d6f94c354efd601cce9d1f5d0b"
   }
 }
